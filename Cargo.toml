@@ -1,5 +1,7 @@
 [package]
 name = "rossweisse"
+description = "✨ Blazing fast Logging in Rust"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
