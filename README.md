@@ -1,3 +1,5 @@
+![vollerei](assets/logo.png)
+
 # vollerei
 ✨ Blazing fast Logging in Rust
 
@@ -32,7 +34,7 @@ fn main() {
 }
 ```
 `assets/basic.png`
-![](assets/basic.png)
+![basic](assets/basic.png)
 
 # Links
 *Crates.io*: https://crates.io/crates/vollerei \
