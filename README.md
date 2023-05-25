@@ -1,24 +1,40 @@
-![vollerei](assets/logo.png)
+# ![vollerei](assets/logo.png)
 
 # vollerei
+
+![language](https://img.shields.io/badge/language-Rust-ffc9bb)
+![license](https://img.shields.io/badge/license-MIT-cafffe)
+
 ✨ Blazing fast Logging in Rust
 
-# Table of Contents
-1. [Metadata](#metadata)
-2. [Install](#install)
-3. [Examples](#examples)
-4. [Links](#links)
+## 🌼 Table of Contents
+- [Metadata](#metadata)
+- [Install](#install)
+    - [Cargo](#cargo)
+- [Examples](#examples)
+    - [Basic](#basic)
+- [Links](#links)
 
-# Metadata
+## 🥝 Statistics
 Size: `~5.73` kB
 
-# Install
-### Run the following Cargo command in your project directory
-`cargo add vollerei`
-### Or add the following line to your Cargo.toml
-`vollerei = "0.1.5"`
+Files: `8` \
+Lines: `305` \
+Blanks: `39` \
+Comments: `133`
 
-# Examples
+## 💐 Install
+
+### 📦 Cargo
+Run the following Cargo command in your project directory\
+`cargo add vollerei`
+
+Or add the following line to your Cargo.toml\
+`vollerei = "0.1.6"`
+
+## 🍹 Examples
+
+### 🍓 Basic
 `examples/basic.rs`
 ```
 use vollerei::logger::Logger;
@@ -36,6 +52,7 @@ fn main() {
 `assets/basic.png`
 ![basic](assets/basic.png)
 
-# Links
-*Crates.io*: https://crates.io/crates/vollerei \
-*Documentation*: https://docs.rs/vollerei
+## 🍸 Links
+### 🦀 Rust
+[*Crates.io*](https://crates.io/crates/vollerei)\
+[*Docs.rs*](https://docs.rs/vollerei)
