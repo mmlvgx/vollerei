@@ -13,7 +13,7 @@ Size: `~5.73` kB
 ### Run the following Cargo command in your project directory
 `cargo add vollerei`
 ### Or add the following line to your Cargo.toml
-`vollerei = "0.1.2"`
+`vollerei = "0.1.3"`
 
 # Examples
 `examples/basic.rs`
