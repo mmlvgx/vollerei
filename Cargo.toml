@@ -5,11 +5,12 @@ authors = ["mmlvgx <mmlvgx@gmail.com>"]
 edition = "2018"
 
 description = "✨ Blazing fast Logging in Rust"
+documentation = "https://docs.rs/vollerei"
 
 readme = "README.md"
 
-homepage = "https://github.com/mmlvgx/rossweisse"
-repository = "https://github.com/mmlvgx/rossweisse"
+homepage = "https://github.com/mmlvgx/vollerei"
+repository = "https://github.com/mmlvgx/vollerei"
 
 license = "MIT"
 license-file = "LICENSE"

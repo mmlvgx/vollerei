@@ -36,4 +36,4 @@ fn main() {
 
 # Links
 *Crates.io*: https://crates.io/crates/vollerei\
-*Documentation*: https://docs.rs/vollerei/
+*Documentation*: https://docs.rs/vollerei
