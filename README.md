@@ -5,6 +5,7 @@
 1. [Metadata](#metadata)
 2. [Install](#install)
 3. [Examples](#examples)
+4. [Links](#links)
 
 # Metadata
 Size: `~5.73` kB
@@ -13,7 +14,7 @@ Size: `~5.73` kB
 ### Run the following Cargo command in your project directory
 `cargo add vollerei`
 ### Or add the following line to your Cargo.toml
-`vollerei = "0.1.3"`
+`vollerei = "0.1.4"`
 
 # Examples
 `examples/basic.rs`
@@ -32,3 +33,7 @@ fn main() {
 ```
 `assets/basic.png`
 ![](assets/basic.png)
+
+# Links
+*Crates.io*: https://crates.io/crates/vollerei\
+*Documentation*: https://docs.rs/vollerei/
