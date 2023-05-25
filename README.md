@@ -1,4 +1,4 @@
-# rossweisse
+# vollerei
 ✨ Blazing fast Logging in Rust
 # Examples
 `examples/basic.rs`

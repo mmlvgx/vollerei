@@ -1,7 +1,7 @@
-use rossweisse::logger::Logger;
+use vollerei::logger::Logger;
 
 fn main() {
-    let logger = Logger::new();
+    let logger = Logger::new("example");
 
     logger.debug("Hello, world!");
     logger.info("Hello, world!");
