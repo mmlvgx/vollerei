@@ -8,12 +8,12 @@
 ✨ Blazing fast Logging in Rust
 
 ## 🌼 Table of Contents
-- [Metadata](#metadata)
-- [Install](#install)
-    - [Cargo](#cargo)
-- [Examples](#examples)
-    - [Basic](#basic)
-- [Links](#links)
+- [🥝 Statistics](#🥝-statistics)
+- [💐 Install](#💐-install)
+    - [📦 Cargo](#📦-cargo)
+- [🍹 Examples](#🍹-examples)
+    - [🍓 Basic](#🍓-basic)
+- [🍸 Links](#🍸-links)
 
 ## 🥝 Statistics
 Size: `~5.73` kB
@@ -30,7 +30,7 @@ Run the following Cargo command in your project directory\
 `cargo add vollerei`
 
 Or add the following line to your Cargo.toml\
-`vollerei = "0.1.6"`
+`vollerei = "0.1.7"`
 
 ## 🍹 Examples
 
