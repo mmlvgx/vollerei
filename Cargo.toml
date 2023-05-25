@@ -2,6 +2,7 @@
 name = "rossweisse"
 version = "0.1.0"
 authors = ["mmlvgx <mmlvgx@gmail.com>"]
+edition = "2018"
 
 description = "✨ Blazing fast Logging in Rust"
 
