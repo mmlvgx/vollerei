@@ -1,3 +1,5 @@
+use rossweisse::logger::Logger;
+
 fn main() {
     let logger = Logger::new();
 

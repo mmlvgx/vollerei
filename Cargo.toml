@@ -1,11 +1,19 @@
 [package]
 name = "rossweisse"
-description = "✨ Blazing fast Logging in Rust"
-license = "MIT"
 version = "0.1.0"
-edition = "2021"
+authors = ["mmlvgx <mmlvgx@gmail.com>"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "✨ Blazing fast Logging in Rust"
+
+readme = "README.md"
+
+homepage = "https://github.com/mmlvgx/rossweisse"
+repository = "https://github.com/mmlvgx/rossweisse"
+
+license = "MIT"
+license-file = "LICENSE"
+
+keywords = ["blazing", "fast", "logging", "in", "rust"]
 
 [dependencies]
 chrono = "0.4.24"
